@@ -14,7 +14,7 @@ header {
     color: #ffffff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+/* Got rid of the seemingly random seo attribute */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -55,7 +55,7 @@ main {
 }
 
 main section {
-    
+    /* Combined the multiple sections that were repeated into one section*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
